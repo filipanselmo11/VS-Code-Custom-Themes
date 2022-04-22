@@ -1,7 +1,7 @@
 {
     "name": "batman-ninja",
-    "displayName": "Batman-Ninja",
-    "description": "",
+    "displayName": "batman-ninja",
+    "description": "batman-ninja",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.66.0"
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "filipanselmo",
+                "label": "batman-ninja",
                 "uiTheme": "vs-dark",
-                "path": "./themes/filipanselmo-color-theme.json"
+                "path": "./themes/batman-ninja-color-theme.json"
             }
         ]
     }
