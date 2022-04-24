@@ -1,0 +1,21 @@
+{
+    "name": "moon-knight-light",
+    "displayName": "moon-knight-light",
+    "description": "moon-knight-light",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "moon-knight-light",
+                "uiTheme": "vs",
+                "path": "./themes/moon-knight-light-color-theme.json"
+            }
+        ]
+    }
+}
