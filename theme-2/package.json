@@ -1,7 +1,7 @@
 {
-    "name": "the-batman",
-    "displayName": "The-Batman",
-    "description": "The-batman",
+    "name": "theme-2",
+    "displayName": "theme-2",
+    "description": "theme-2",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.66.0"
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "The Batman",
+                "label": "theme-2",
                 "uiTheme": "vs-dark",
-                "path": "./themes/The Batman-color-theme.json"
+                "path": "./themes/theme-2-color-theme.json"
             }
         ]
     }
