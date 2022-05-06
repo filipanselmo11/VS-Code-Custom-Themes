@@ -1,0 +1,21 @@
+{
+    "name": "clan-uchiha",
+    "displayName": "clan uchiha",
+    "description": "clan uchiha",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "clan uchiha",
+                "uiTheme": "vs-dark",
+                "path": "./themes/clan uchiha-color-theme.json"
+            }
+        ]
+    }
+}
