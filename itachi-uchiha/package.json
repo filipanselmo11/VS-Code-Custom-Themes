@@ -1,0 +1,21 @@
+{
+    "name": "itachi-uchiha",
+    "displayName": "itachi-uchiha",
+    "description": "itachi-uchiha",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "itachi-uchiha",
+                "uiTheme": "vs-dark",
+                "path": "./themes/itachi-uchiha-color-theme.json"
+            }
+        ]
+    }
+}
