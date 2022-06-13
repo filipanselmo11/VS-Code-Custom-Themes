@@ -1,0 +1,21 @@
+{
+    "name": "tva-theme",
+    "displayName": "tva-theme",
+    "description": "tva-theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "tva-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tva-theme-color-theme.json"
+            }
+        ]
+    }
+}
