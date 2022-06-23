@@ -1,0 +1,21 @@
+{
+    "name": "god-of-war",
+    "displayName": "god-of-war",
+    "description": "god-of-war",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "god-of-war",
+                "uiTheme": "vs-dark",
+                "path": "./themes/god-of-war-color-theme.json"
+            }
+        ]
+    }
+}

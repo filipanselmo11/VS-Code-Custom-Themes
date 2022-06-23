@@ -1,0 +1,21 @@
+{
+    "name": "reverse-flash",
+    "displayName": "reverse-flash",
+    "description": "reverse-flash",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "reverse-flash",
+                "uiTheme": "vs-dark",
+                "path": "./themes/reverse-flash-color-theme.json"
+            }
+        ]
+    }
+}
