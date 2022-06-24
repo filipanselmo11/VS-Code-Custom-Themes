@@ -1,0 +1,21 @@
+{
+    "name": "vue-js",
+    "displayName": "vue-js",
+    "description": "vue-js",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "vue-js",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vue-js-color-theme.json"
+            }
+        ]
+    }
+}
