@@ -1,0 +1,21 @@
+{
+    "name": "github-dark",
+    "displayName": "github-dark",
+    "description": "github-dark",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "github-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/github-dark-color-theme.json"
+            }
+        ]
+    }
+}
