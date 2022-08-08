@@ -1,0 +1,21 @@
+{
+    "name": "deep-green",
+    "displayName": "deep-green",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "deep-green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/deep-green-color-theme.json"
+            }
+        ]
+    }
+}
