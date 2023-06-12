@@ -1,7 +1,7 @@
 {
   "name": "zeku",
   "displayName": "zeku",
-  "description": "zeku",
+  "description": "Inspirado no personagem de SF V",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "zeku",
+        "label": "Zeku",
         "uiTheme": "vs-dark",
-        "path": "./themes/zeku-color-theme.json"
+        "path": "./themes/Zeku-color-theme.json"
       }
     ]
   }
